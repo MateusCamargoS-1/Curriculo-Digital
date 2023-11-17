@@ -21,7 +21,7 @@ header {
 
 header img {
     width: 200px;
-    border: 5px solid #c67f66;
+    border: 5px solid #c87f64;
     border-radius: 100px;
 }
 
@@ -32,13 +32,13 @@ header nav {
 }
 
 header nav a {
-    color: #ed997b;
+    color: #f19b7c;
     margin: 15px 0;
     text-align: center;
     text-transform: uppercase;
     font-size: 1.2em;
 
-    transition: ease-in-out 0.3s;
+    transition: ease-in-out 0.5s;
 }
 
 header nav a:hover {
